@@ -1,7 +1,6 @@
 .header {
   display: flex;
   color: #fff;
-  min-height: 52px;
   padding: 28px 48px 56px;
   justify-content: space-between;
   align-items: flex-end;
@@ -22,7 +21,6 @@
 
 @media screen and (max-width: 720px) {
   .header {
-    min-height: 42px;
     padding: 16px 16px 48px;
   }
 }
