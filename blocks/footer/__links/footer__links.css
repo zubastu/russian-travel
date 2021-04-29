@@ -6,17 +6,8 @@
   color: #ffffff;
 }
 
-
 @media (max-width: 767px) {
   .footer__links {
     flex-direction: column;
   }
 }
-
-
-@media (max-width: 320px) {
-  .footer__links {
-    margin-left: 0;
-  }
-}
-
