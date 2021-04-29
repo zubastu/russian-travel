@@ -11,7 +11,7 @@
   margin: 0 auto;
 }
 
-.cover:hover .cover__overlay {
+.cover:hover {
   opacity: 0.8;
 }
 

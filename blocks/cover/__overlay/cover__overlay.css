@@ -11,3 +11,26 @@
   background-repeat: no-repeat;
   transition: opacity 0.6s;
 }
+
+.cover__overlay {
+  opacity: .3;
+}
+
+@media screen and (max-width: 1185px)
+{
+  .cover {
+    min-height: calc(100vw*740/1184);
+  }
+}
+
+@media screen and (max-width: 850px) {
+  .cover {
+    margin-bottom: 88px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .cover {
+    margin-bottom: 64px;
+  }
+}
