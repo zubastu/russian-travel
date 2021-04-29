@@ -1,0 +1,9 @@
+.place__link{
+    align-self: end;
+}
+
+@media screen and (max-width: 660px) {
+    .place__link{
+      width: calc(100vw - 32px);
+    }
+  }

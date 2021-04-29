@@ -1,0 +1,8 @@
+.link{
+    list-style: none;
+    color: #FFFFFF;
+    transition: opacity 0.25s ease-in-out;	
+}
+.link:hover{
+    opacity: .8;
+}
