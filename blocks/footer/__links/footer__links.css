@@ -4,6 +4,7 @@
   list-style: none;
   display: flex;
   color: #ffffff;
+  list-style: none;
 }
 
 @media (max-width: 767px) {
