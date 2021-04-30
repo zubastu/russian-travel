@@ -33,3 +33,9 @@
   }
 }
 
+@media (max-width: 320px) {
+  .footer {
+    margin-left: 16px;
+    margin-top: 64px;
+  }
+}
