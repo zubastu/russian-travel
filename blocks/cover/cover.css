@@ -12,9 +12,6 @@
   transition: opacity .3s ease;
 }
 
-.cover:hover {
-  opacity: 0.8;
-}
 
 @media screen and (max-width: 1185px)
 {
